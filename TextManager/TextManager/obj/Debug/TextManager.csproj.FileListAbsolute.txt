@@ -1,0 +1,16 @@
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\bin\Debug\TextManager.exe.config
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\bin\Debug\TextManager.exe
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\bin\Debug\TextManager.pdb
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\obj\Debug\TextManager.csproj.AssemblyReference.cache
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\obj\Debug\TextManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\obj\Debug\MainWindow.g.cs
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\obj\Debug\App.g.cs
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\obj\Debug\TextManager_MarkupCompile.cache
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\obj\Debug\TextManager_MarkupCompile.lref
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\obj\Debug\MainWindow.baml
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\obj\Debug\TextManager.g.resources
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\obj\Debug\TextManager.Properties.Resources.resources
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\obj\Debug\TextManager.csproj.GenerateResource.cache
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\obj\Debug\TextManager.csproj.CoreCompileInputs.cache
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\obj\Debug\TextManager.exe
+C:\Users\juyeongj\Documents\GitHub\TextManager\TextManager\TextManager\obj\Debug\TextManager.pdb

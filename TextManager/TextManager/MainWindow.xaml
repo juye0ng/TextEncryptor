@@ -1,0 +1,20 @@
+﻿<Window x:Class="TextManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextManager"
+        mc:Ignorable="d"
+        Title="Encoder" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="OriginalText" HorizontalAlignment="Left" Margin="16,10,0,51" TextWrapping="Wrap" Width="320"/>
+        <TextBox x:Name="ChangedText" HorizontalAlignment="Right" Margin="0,10,16,51" TextWrapping="Wrap" Width="320" IsReadOnly="True"/>
+        <Button x:Name="Convert" Content="Encrypt" HorizontalAlignment="Center" Margin="0,74,0,0" VerticalAlignment="Top" Height="27" Width="72" Click="Convert_Click"/>
+        <Button x:Name="Revert" Content="Decrypt" HorizontalAlignment="Center" Margin="0,106,0,0" VerticalAlignment="Top" Height="27" Width="72" Click="Revert_Click"/>
+        <Button x:Name="Clear" Content="Clear" HorizontalAlignment="Center" Margin="0,138,0,0" VerticalAlignment="Top" Height="27" Width="72" Click="Clear_Click"/>
+        <Button x:Name="Flush" Content="Flush" HorizontalAlignment="Center" Margin="0,170,0,0" VerticalAlignment="Top" Height="27" Width="72" Click="Flush_Click"/>
+        <Button x:Name="Switch" Content="Switch" HorizontalAlignment="Center" Margin="0,202,0,0" VerticalAlignment="Top" Height="27" Width="72" Click="Switch_Click"/>
+        <Button x:Name="Copy" Content="Copy" HorizontalAlignment="Center" Margin="0,234,0,0" VerticalAlignment="Top" Height="27" Width="72" Click="Copy_Click"/>
+
+    </Grid>
+</Window>
