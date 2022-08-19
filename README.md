@@ -1,1 +1,1 @@
-# TextManager
+# TextEncryptor
